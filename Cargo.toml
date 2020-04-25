@@ -1,0 +1,8 @@
+[package]
+name = "approx"
+version = "0.1.0"
+authors = ["Leopold Luley <git@leopoldluley.de>"]
+edition = "2018"
+
+[dependencies]
+nannou = "0.12"
